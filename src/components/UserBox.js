@@ -6,7 +6,7 @@ function UserBox() {
 
     return (
         <div className="UserBox">
-            <img src={avatar} />
+            <img src={avatar} alt='UserBox' />
             <p>Гость</p>
             <div className='UserBox__controls'>
                 <ul>

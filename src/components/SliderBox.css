@@ -1,0 +1,8 @@
+.SliderBox{
+    width: 100%;
+    height: 100%;
+}
+.SliderBox div{
+    width: 100%;
+    height: calc(100% - 25px);
+}
